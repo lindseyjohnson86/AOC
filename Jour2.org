@@ -30,3 +30,4 @@ Dans l'exemple ci-dessus, les rapports peuvent être jugés sûrs ou non sûrs e
 Donc, dans cet exemple, 2les rapports sont sécurisés .
 
 Analysez les données inhabituelles fournies par les ingénieurs. Combien de rapports sont sûrs ?
+Réponse : 483
